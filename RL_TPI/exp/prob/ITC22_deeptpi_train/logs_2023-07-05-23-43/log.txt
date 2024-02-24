@@ -1,0 +1,20 @@
+2023-07-05-23-43: ==========================
+2023-07-05-23-43: Circuit: DMA_aig_005 , Idx: 5
+2023-07-05-23-43: Round: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 148| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 94| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 147| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 76| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 111| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 129| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 34| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 96| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 27| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 61| Reward: 0.847999999999999| Loss: 0
+2023-07-05-23-43: 
+2023-07-05-23-43: Round: 1
+2023-07-05-23-43: [Action] Insert OP TP on Pos 148| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 94| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 147| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 76| Reward: 0| Loss: 0
+2023-07-05-23-43: [Action] Insert OP TP on Pos 111| Reward: 0| Loss: 0

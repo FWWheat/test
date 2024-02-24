@@ -1,0 +1,26 @@
+{
+    "tasks": [
+        {   
+			//编译源文件
+            "type": "shell",
+            "label": "g++ build active file",
+            "command": "g++",
+            "args": [
+                "-O", 
+				"-g", 
+				"error.o", "hash.o", "help.o", "read_cct.o", "structure.o", "io.o", "pio.o", "stem.o", 
+				"define_fault_list.o", "testability.o", "fan.o", "learn.o", "ppsfp.o", "truth.o", "lsim.o",
+				"fsim.o", "random.o", "print.o", "sim.o", "atalanta.o", 
+				"-o", "atalanta"
+            ],
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ],
+    "version": "2.0.0"
+}
